@@ -1,6 +1,7 @@
 # Ecommerce_Website_Examination
 
-##How to run
+## How to run
+
 ###Create Connection String
 Scaffold-DbContext "Connection String" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -f
 
